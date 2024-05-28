@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "natural": "^7.0.6",
+    "translate-google": "^1.5.0"
+  }
+}
